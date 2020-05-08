@@ -1,0 +1,31 @@
+
+div
+
+{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    margin-top: 77px;
+}
+p
+{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: x-large;
+ color: lightseagreen   
+   
+}
+
+button
+{
+    border: none;
+    background-color:limegreen;
+    width: 150px;
+    height: 70px;
+    color: linen;
+    font-size: x-large;
+    border-radius: 7px;
+}
+h1
+{
+    color: magenta;
+}

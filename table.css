@@ -1,0 +1,51 @@
+
+table 
+ {
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 67px;
+     text-align: center;
+     border-collapse: collapse;
+     
+   
+
+}
+
+td
+{
+    width: 40px;
+
+}
+
+div
+{
+    margin: auto;
+    text-align: center;
+   
+    width: 900px;
+}
+
+p
+{
+    background-color: lawngreen;
+    font-size: 5em;
+    position: absolute;
+    width: 900px;
+    margin-top: 10px;
+    
+    
+        
+    
+    
+}
+img
+{
+    width: 200px;
+    height: 80px;
+}
+
+.last {
+    border-top: 20px solid white; 
+
+    }
+

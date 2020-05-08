@@ -1,0 +1,114 @@
+div
+{
+   
+    width: 80%;
+    margin: auto;
+    } 
+
+header
+{
+    text-align: center;
+    margin-top: 6%;
+    background-color: rgb(198, 245, 208);
+
+}
+
+.one
+{
+    text-align: center;
+    
+    font-size: 29px;
+   
+    margin-top: 0px;
+    
+}
+
+body
+{
+    background-color:#F9F9FA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav
+{
+    background-color: #F2F8FF;
+    width: 100%;
+}
+table
+{
+    background-color: #F2F8FF;
+    width: 100%;
+}
+tr
+{
+
+}
+.trtwo
+{
+    text-align: left;
+}
+.trone
+{
+ color: silver;
+}
+select
+{
+    width: 500px;
+    height: 40px;
+    border:none;
+}
+
+.tcourse:link
+{
+    color: slateblue;
+}
+.names
+{
+    width: 100%;
+    height: 40px;
+    border:none;
+    font-size: 20px;
+}
+.names:focus
+{
+ border-bottom:2px solid slateblue;
+}
+
+.names:hover
+{
+  border-bottom:2px solid brown;
+}
+.maxx
+{
+    color: silver;
+    font-size: 14px;
+}
+
+.genders
+{
+    color: black;
+}
+.b
+{
+    text-align: right;
+}
+
+button , .rst
+{
+    border: none;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 50px;
+    border-radius: 55px;
+    color: cornsilk;
+    font-size: 20px;
+}
+
+button:hover
+{
+    background-color: darkkhaki;
+}
+a
+{
+    text-decoration: none;
+    color: cornsilk;
+}

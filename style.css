@@ -1,0 +1,45 @@
+/* this is to manke navigation bar styling */
+li 
+{
+    
+    float: left;
+    width: auto;
+  
+
+    margin-left: 10px;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+
+li:active {
+    background-color: limegreen;
+}
+a { 
+    
+    height: 500px;
+    width: 100px;
+  
+}
+
+#lidiv
+{
+    width: 500px;
+    margin:auto;
+    width: 600px;
+    background-color: blueviolet;
+    
+}
+a>img
+    {
+        width: 100px;
+    }
+    h1 {
+       
+       overflow: hidden;
+       width: 1000px;
+       margin-bottom: 0px;
+       
+    }
+
+ 
